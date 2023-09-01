@@ -1,0 +1,1143 @@
+{
+    "years": [
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012,
+        2011,
+        2010,
+        2009,
+        2008,
+        2007,
+        2006,
+        2005,
+        2004,
+        2003,
+        2002,
+        2001,
+        2000,
+        1999,
+        1998
+    ],
+    "models": [
+        {
+            "id": "FJ",
+            "title": "CARENS FJ (01/2000 - 05/2002) FJ",
+            "modelName": "CARENS FJ",
+            "years": [
+                2000,
+                2001,
+                2002
+            ],
+            "yearFrom": "2000",
+            "yearTo": "2002",
+            "showInConnect": true
+        },
+        {
+            "id": "FL",
+            "title": "CARNIVAL GQ (01/2000 - 11/2005) FL",
+            "modelName": "CARNIVAL GQ",
+            "years": [
+                2000,
+                2001,
+                2002,
+                2003,
+                2004,
+                2005
+            ],
+            "yearFrom": "2000",
+            "yearTo": "2005",
+            "showInConnect": true
+        },
+        {
+            "id": "HS-20",
+            "title": "CARNIVAL KA4 (09/2020 - ) HS-20",
+            "modelName": "CARNIVAL KA4",
+            "years": [
+                2020,
+                2021,
+                2022,
+                2023,
+                2024
+            ],
+            "yearFrom": "2021",
+            "yearTo": "2024",
+            "showInConnect": true
+        },
+        {
+            "id": "GB",
+            "title": "CARNIVAL VQ (12/2004 - 12/2006) GB",
+            "modelName": "CARNIVAL VQ",
+            "years": [
+                2004,
+                2005,
+                2006,
+                2007
+            ],
+            "yearFrom": "2005",
+            "yearTo": "2007",
+            "showInConnect": true
+        },
+        {
+            "id": "VQ-05",
+            "title": "CARNIVAL VQ (10/2006 - 04/2014) VQ-05",
+            "modelName": "CARNIVAL VQ",
+            "years": [
+                2006,
+                2007,
+                2008,
+                2009,
+                2010,
+                2011,
+                2012,
+                2013,
+                2014
+            ],
+            "yearFrom": "2007",
+            "yearTo": "2014",
+            "showInConnect": true
+        },
+        {
+            "id": "A9-14",
+            "title": "CARNIVAL YP (12/2014 - 03/2018) A9-14",
+            "modelName": "CARNIVAL YP",
+            "years": [
+                2014,
+                2015,
+                2016,
+                2017,
+                2018
+            ],
+            "yearFrom": "2015",
+            "yearTo": "2018",
+            "showInConnect": true
+        },
+        {
+            "id": "A9-18",
+            "title": "CARNIVAL YP (02/2018 - 07/2020) A9-18",
+            "modelName": "CARNIVAL YP",
+            "years": [
+                2018,
+                2019,
+                2020
+            ],
+            "yearFrom": "2018",
+            "yearTo": "2020",
+            "showInConnect": true
+        },
+        {
+            "id": "M6-18",
+            "title": "CERATO BD (09/2017 - 04/2021) M6-18",
+            "modelName": "CERATO BD",
+            "years": [
+                2017,
+                2018,
+                2019,
+                2020,
+                2021
+            ],
+            "yearFrom": "2018",
+            "yearTo": "2021",
+            "showInConnect": true
+        },
+        {
+            "id": "M6-21",
+            "title": "CERATO BD (04/2021 - ) M6-21",
+            "modelName": "CERATO BD",
+            "years": [
+                2021,
+                2022,
+                2023,
+                2024
+            ],
+            "yearFrom": "2022",
+            "yearTo": "2024",
+            "showInConnect": true
+        },
+        {
+            "id": "CD",
+            "title": "CERATO LD (08/2003 - 10/2006) CD",
+            "modelName": "CERATO LD",
+            "years": [
+                2003,
+                2004,
+                2005,
+                2006,
+                2007,
+                2008
+            ],
+            "yearFrom": "2004",
+            "yearTo": "2008",
+            "showInConnect": true
+        },
+        {
+            "id": "LD-06",
+            "title": "CERATO LD (10/2006 - 07/2008) LD-06",
+            "modelName": "CERATO LD",
+            "years": [
+                2006,
+                2007,
+                2008
+            ],
+            "yearFrom": "2007",
+            "yearTo": "2008",
+            "showInConnect": true
+        },
+        {
+            "id": "TD-08",
+            "title": "CERATO TD (07/2008 - 03/2013) TD-08",
+            "modelName": "CERATO TD",
+            "years": [
+                2008,
+                2009,
+                2010,
+                2011,
+                2012,
+                2013
+            ],
+            "yearFrom": "2009",
+            "yearTo": "2013",
+            "showInConnect": true
+        },
+        {
+            "id": "A7-12",
+            "title": "CERATO YD (02/2013 - 02/2016) A7-12",
+            "modelName": "CERATO YD",
+            "years": [
+                2013,
+                2014,
+                2015
+            ],
+            "yearFrom": "2013",
+            "yearTo": "2015",
+            "showInConnect": true
+        },
+        {
+            "id": "A7-16",
+            "title": "CERATO YD (03/2016 - 06/2018) A7-16",
+            "modelName": "CERATO YD",
+            "years": [
+                2016,
+                2017,
+                2018
+            ],
+            "yearFrom": "2016",
+            "yearTo": "2018",
+            "showInConnect": true
+        },
+        {
+            "id": "FE",
+            "title": "CREDOS (06/1998 - 11/2000) FE",
+            "modelName": "CREDOS",
+            "years": [
+                1998,
+                1999,
+                2000,
+                2001
+            ],
+            "yearFrom": "1998",
+            "yearTo": "2001",
+            "showInConnect": true
+        },
+        {
+            "id": "AS-21",
+            "title": "EV6 CV (11/2021 - ) AS-21",
+            "modelName": "EV6 CV",
+            "years": [
+                2021,
+                2022,
+                2023,
+                2024
+            ],
+            "yearFrom": "2021",
+            "yearTo": "2024",
+            "showInConnect": true
+        },
+        {
+            "id": "FR",
+            "title": "K2700 II PU (01/2000 - 09/2004) FR",
+            "modelName": "K2700 II PU",
+            "years": [
+                2000,
+                2001,
+                2002,
+                2003,
+                2004,
+                2005,
+                2006
+            ],
+            "yearFrom": "2002",
+            "yearTo": "2006",
+            "showInConnect": true
+        },
+        {
+            "id": "HD",
+            "title": "K2700 PU (07/2004 - 12/2006) HD",
+            "modelName": "K2700 PU",
+            "years": [
+                2004,
+                2005,
+                2006
+            ],
+            "yearFrom": "2005",
+            "yearTo": "2006",
+            "showInConnect": true
+        },
+        {
+            "id": "PU",
+            "title": "K2700 PU (11/2006 - 01/2007) PU",
+            "modelName": "K2700 PU",
+            "years": [
+                2006,
+                2007
+            ],
+            "yearFrom": "2007",
+            "yearTo": "2007",
+            "showInConnect": true
+        },
+        {
+            "id": "PU-B",
+            "title": "K2900 PU (08/2007 - 12/2011) PU-B",
+            "modelName": "K2900 PU",
+            "years": [
+                2007,
+                2008,
+                2009,
+                2010,
+                2011
+            ],
+            "yearFrom": "2008",
+            "yearTo": "2011",
+            "showInConnect": true
+        },
+        {
+            "id": "DD",
+            "title": "MAGENTIS MG (07/2005 - 12/2006) DD",
+            "modelName": "MAGENTIS MG",
+            "years": [
+                2005,
+                2006,
+                2007,
+                2008,
+                2009,
+                2010
+            ],
+            "yearFrom": "2005",
+            "yearTo": "2010",
+            "showInConnect": true
+        },
+        {
+            "id": "MG-05",
+            "title": "MAGENTIS MG (09/2006 - 08/2008) MG-05",
+            "modelName": "MAGENTIS MG",
+            "years": [
+                2006,
+                2007,
+                2008,
+                2009,
+                2010
+            ],
+            "yearFrom": "2007",
+            "yearTo": "2010",
+            "showInConnect": true
+        },
+        {
+            "id": "MG-09",
+            "title": "MAGENTIS MG (05/2008 - 04/2010) MG-09",
+            "modelName": "MAGENTIS MG",
+            "years": [
+                2008,
+                2009,
+                2010
+            ],
+            "yearFrom": "2008",
+            "yearTo": "2010",
+            "showInConnect": true
+        },
+        {
+            "id": "FX",
+            "title": "MENTOR SD (01/2000 - 02/2001) FX",
+            "modelName": "MENTOR SD",
+            "years": [
+                2000,
+                2001
+            ],
+            "yearFrom": "2000",
+            "yearTo": "2001",
+            "showInConnect": true
+        },
+        {
+            "id": "DQ-19",
+            "title": "NIRO DE EV (12/2020 - 06/2022) DQ-19",
+            "modelName": "NIRO DE EV",
+            "years": [
+                2020,
+                2021,
+                2022
+            ],
+            "yearFrom": "2021",
+            "yearTo": "2022",
+            "showInConnect": true
+        },
+        {
+            "id": "G5-19",
+            "title": "NIRO DE HYBRID (12/2020 - 04/2022) G5-19",
+            "modelName": "NIRO DE HYBRID",
+            "years": [
+                2020,
+                2021,
+                2022
+            ],
+            "yearFrom": "2021",
+            "yearTo": "2022",
+            "showInConnect": true
+        },
+        {
+            "id": "DE-22",
+            "title": "NIRO DE PLUS (07/2022 - ) DE-22",
+            "modelName": "NIRO DE PLUS",
+            "years": [
+                2022,
+                2023,
+                2024
+            ],
+            "yearFrom": "2022",
+            "yearTo": "2024",
+            "showInConnect": true
+        },
+        {
+            "id": "TE-22",
+            "title": "NIRO SG2 EV (04/2022 - ) TE-22",
+            "modelName": "NIRO SG2 EV",
+            "years": [
+                2022,
+                2023,
+                2024
+            ],
+            "yearFrom": "2023",
+            "yearTo": "2024",
+            "showInConnect": true
+        },
+        {
+            "id": "0T-21",
+            "title": "NIRO SG2 HYBRID (04/2022 - ) 0T-21",
+            "modelName": "NIRO SG2 HYBRID",
+            "years": [
+                2022,
+                2023,
+                2024
+            ],
+            "yearFrom": "2023",
+            "yearTo": "2024",
+            "showInConnect": true
+        },
+        {
+            "id": "D4-16",
+            "title": "OPTIMA JF (08/2015 - 02/2018) D4-16",
+            "modelName": "OPTIMA JF",
+            "years": [
+                2015,
+                2016,
+                2017,
+                2018
+            ],
+            "yearFrom": "2016",
+            "yearTo": "2018",
+            "showInConnect": true
+        },
+        {
+            "id": "D4-18",
+            "title": "OPTIMA JF (02/2018 - 11/2019) D4-18",
+            "modelName": "OPTIMA JF",
+            "years": [
+                2018,
+                2019,
+                2020
+            ],
+            "yearFrom": "2019",
+            "yearTo": "2020",
+            "showInConnect": true
+        },
+        {
+            "id": "FS",
+            "title": "OPTIMA MS (06/2000 - 09/2005) FS",
+            "modelName": "OPTIMA MS",
+            "years": [
+                2000,
+                2001,
+                2002,
+                2003,
+                2004,
+                2005
+            ],
+            "yearFrom": "2000",
+            "yearTo": "2005",
+            "showInConnect": true
+        },
+        {
+            "id": "TF-11",
+            "title": "OPTIMA TF (08/2010 - 08/2013) TF-11",
+            "modelName": "OPTIMA TF",
+            "years": [
+                2010,
+                2011,
+                2012,
+                2013
+            ],
+            "yearFrom": "2011",
+            "yearTo": "2013",
+            "showInConnect": true
+        },
+        {
+            "id": "TF-14",
+            "title": "OPTIMA TF (08/2013 - 06/2015) TF-14",
+            "modelName": "OPTIMA TF",
+            "years": [
+                2013,
+                2014,
+                2015
+            ],
+            "yearFrom": "2014",
+            "yearTo": "2015",
+            "showInConnect": true
+        },
+        {
+            "id": "G6-17",
+            "title": "PICANTO JA (12/2016 - 05/2020) G6-17",
+            "modelName": "PICANTO JA",
+            "years": [
+                2016,
+                2017,
+                2018,
+                2019,
+                2020
+            ],
+            "yearFrom": "2017",
+            "yearTo": "2020",
+            "showInConnect": true
+        },
+        {
+            "id": "G6-20",
+            "title": "PICANTO JA (06/2020 - ) G6-20",
+            "modelName": "PICANTO JA",
+            "years": [
+                2020,
+                2021,
+                2022,
+                2023,
+                2024
+            ],
+            "yearFrom": "2021",
+            "yearTo": "2024",
+            "showInConnect": true
+        },
+        {
+            "id": "TA-15",
+            "title": "PICANTO TA (03/2016 - 11/2016) TA-15",
+            "modelName": "PICANTO TA",
+            "years": [
+                2016,
+                2017
+            ],
+            "yearFrom": "2016",
+            "yearTo": "2017",
+            "showInConnect": true
+        },
+        {
+            "id": "FP",
+            "title": "PREGIO FP (01/2000 - 10/2005) FP",
+            "modelName": "PREGIO FP",
+            "years": [
+                2000,
+                2001,
+                2002,
+                2003,
+                2004,
+                2005
+            ],
+            "yearFrom": "2002",
+            "yearTo": "2005",
+            "showInConnect": true
+        },
+        {
+            "id": "A2P-12",
+            "title": "PRO CEED JD (11/2013 - 04/2015) A2P-12",
+            "modelName": "PRO CEED JD",
+            "years": [
+                2013,
+                2014,
+                2015
+            ],
+            "yearFrom": "2014",
+            "yearTo": "2015",
+            "showInConnect": true
+        },
+        {
+            "id": "FD",
+            "title": "RIO BC (03/2000 - 06/2005) FD",
+            "modelName": "RIO BC",
+            "years": [
+                2000,
+                2001,
+                2002,
+                2003,
+                2004,
+                2005
+            ],
+            "yearFrom": "2000",
+            "yearTo": "2005",
+            "showInConnect": true
+        },
+        {
+            "id": "FD-B",
+            "title": "RIO BC (09/2002 - 05/2005) FD-B",
+            "modelName": "RIO BC",
+            "years": [
+                2002,
+                2003,
+                2004,
+                2005
+            ],
+            "yearFrom": "2003",
+            "yearTo": "2005",
+            "showInConnect": true
+        },
+        {
+            "id": "BN",
+            "title": "RIO JB (08/2004 - 12/2006) BN",
+            "modelName": "RIO JB",
+            "years": [
+                2004,
+                2005,
+                2006,
+                2007,
+                2008,
+                2009,
+                2010,
+                2011
+            ],
+            "yearFrom": "2005",
+            "yearTo": "2011",
+            "showInConnect": true
+        },
+        {
+            "id": "TC-05",
+            "title": "RIO JB (09/2006 - 09/2011) TC-05",
+            "modelName": "RIO JB",
+            "years": [
+                2006,
+                2007,
+                2008,
+                2009,
+                2010,
+                2011
+            ],
+            "yearFrom": "2006",
+            "yearTo": "2011",
+            "showInConnect": true
+        },
+        {
+            "id": "IH-12",
+            "title": "RIO UB (06/2011 - 11/2014) IH-12",
+            "modelName": "RIO UB",
+            "years": [
+                2011,
+                2012,
+                2013,
+                2014
+            ],
+            "yearFrom": "2012",
+            "yearTo": "2014",
+            "showInConnect": true
+        },
+        {
+            "id": "IH-15",
+            "title": "RIO UB (11/2014 - 09/2016) IH-15",
+            "modelName": "RIO UB",
+            "years": [
+                2014,
+                2015,
+                2016
+            ],
+            "yearFrom": "2015",
+            "yearTo": "2016",
+            "showInConnect": true
+        },
+        {
+            "id": "H8-17",
+            "title": "RIO YB (12/2016 - 04/2020) H8-17",
+            "modelName": "RIO YB",
+            "years": [
+                2016,
+                2017,
+                2018,
+                2019,
+                2020
+            ],
+            "yearFrom": "2017",
+            "yearTo": "2020",
+            "showInConnect": true
+        },
+        {
+            "id": "H8-20",
+            "title": "RIO YB (06/2020 - ) H8-20",
+            "modelName": "RIO YB",
+            "years": [
+                2020,
+                2021,
+                2022,
+                2023,
+                2024
+            ],
+            "yearFrom": "2021",
+            "yearTo": "2024",
+            "showInConnect": true
+        },
+        {
+            "id": "A4-12",
+            "title": "RONDO RP (03/2013 - 08/2016) A4-12",
+            "modelName": "RONDO RP",
+            "years": [
+                2013,
+                2014,
+                2015,
+                2016
+            ],
+            "yearFrom": "2014",
+            "yearTo": "2016",
+            "showInConnect": true
+        },
+        {
+            "id": "A4-16",
+            "title": "RONDO RP (08/2016 - 07/2018) A4-16",
+            "modelName": "RONDO RP",
+            "years": [
+                2016,
+                2017,
+                2018
+            ],
+            "yearFrom": "2017",
+            "yearTo": "2018",
+            "showInConnect": true
+        },
+        {
+            "id": "UN-06",
+            "title": "RONDO UN (12/2007 - 12/2012) UN-06",
+            "modelName": "RONDO UN",
+            "years": [
+                2007,
+                2008,
+                2009,
+                2010,
+                2011,
+                2012
+            ],
+            "yearFrom": "2008",
+            "yearTo": "2012",
+            "showInConnect": true
+        },
+        {
+            "id": "TH-19",
+            "title": "SELTOS SP2 (08/2019 - 09/2022) TH-19",
+            "modelName": "SELTOS SP2",
+            "years": [
+                2019,
+                2020,
+                2021,
+                2022
+            ],
+            "yearFrom": "2020",
+            "yearTo": "2022",
+            "showInConnect": true
+        },
+        {
+            "id": "TH-23",
+            "title": "SELTOS SP2 (09/2022 - ) TH-23",
+            "modelName": "SELTOS SP2",
+            "years": [
+                2022,
+                2023,
+                2024
+            ],
+            "yearFrom": "2023",
+            "yearTo": "2024",
+            "showInConnect": true
+        },
+        {
+            "id": "FY",
+            "title": "SORENTO BL (05/2002 - 04/2006) FY",
+            "modelName": "SORENTO BL",
+            "years": [
+                2002,
+                2003,
+                2004,
+                2005,
+                2006
+            ],
+            "yearFrom": "2003",
+            "yearTo": "2006",
+            "showInConnect": true
+        },
+        {
+            "id": "BL-06",
+            "title": "SORENTO BL (09/2006 - 08/2009) BL-06",
+            "modelName": "SORENTO BL",
+            "years": [
+                2006,
+                2007,
+                2008,
+                2009
+            ],
+            "yearFrom": "2007",
+            "yearTo": "2009",
+            "showInConnect": true
+        },
+        {
+            "id": "F1",
+            "title": "SORENTO BL (04/2006 - 12/2006) F1",
+            "modelName": "SORENTO BL",
+            "years": [
+                2006,
+                2007,
+                2008,
+                2009
+            ],
+            "yearFrom": "2006",
+            "yearTo": "2009",
+            "showInConnect": true
+        },
+        {
+            "id": "GZ-20",
+            "title": "SORENTO MQ4 (07/2020 - ) GZ-20",
+            "modelName": "SORENTO MQ4",
+            "years": [
+                2020,
+                2021,
+                2022,
+                2023,
+                2024
+            ],
+            "yearFrom": "2021",
+            "yearTo": "2024",
+            "showInConnect": true
+        },
+        {
+            "id": "HC-20",
+            "title": "SORENTO MQ4 HYBRID (10/2020 - ) HC-20",
+            "modelName": "SORENTO MQ4 HYBRID",
+            "years": [
+                2020,
+                2021,
+                2022,
+                2023,
+                2024
+            ],
+            "yearFrom": "2021",
+            "yearTo": "2024",
+            "showInConnect": true
+        },
+        {
+            "id": "C5-15",
+            "title": "SORENTO UM (09/2014 - 09/2017) C5-15",
+            "modelName": "SORENTO UM",
+            "years": [
+                2014,
+                2015,
+                2016,
+                2017
+            ],
+            "yearFrom": "2015",
+            "yearTo": "2017",
+            "showInConnect": true
+        },
+        {
+            "id": "C5-18",
+            "title": "SORENTO UM (07/2017 - 02/2020) C5-18",
+            "modelName": "SORENTO UM",
+            "years": [
+                2017,
+                2018,
+                2019,
+                2020
+            ],
+            "yearFrom": "2018",
+            "yearTo": "2020",
+            "showInConnect": true
+        },
+        {
+            "id": "XM-09",
+            "title": "SORENTO XM (10/2008 - 09/2012) XM-09",
+            "modelName": "SORENTO XM",
+            "years": [
+                2008,
+                2009,
+                2010,
+                2011,
+                2012
+            ],
+            "yearFrom": "2009",
+            "yearTo": "2012",
+            "showInConnect": true
+        },
+        {
+            "id": "XM-12",
+            "title": "SORENTO XM (07/2012 - 08/2014) XM-12",
+            "modelName": "SORENTO XM",
+            "years": [
+                2012,
+                2013,
+                2014
+            ],
+            "yearFrom": "2013",
+            "yearTo": "2014",
+            "showInConnect": true
+        },
+        {
+            "id": "AM-08",
+            "title": "SOUL AM (05/2008 - 07/2011) AM-08",
+            "modelName": "SOUL AM",
+            "years": [
+                2008,
+                2009,
+                2010,
+                2011
+            ],
+            "yearFrom": "2008",
+            "yearTo": "2011",
+            "showInConnect": true
+        },
+        {
+            "id": "AM-12",
+            "title": "SOUL AM (09/2011 - 10/2013) AM-12",
+            "modelName": "SOUL AM",
+            "years": [
+                2011,
+                2012,
+                2013
+            ],
+            "yearFrom": "2012",
+            "yearTo": "2013",
+            "showInConnect": true
+        },
+        {
+            "id": "B2-13",
+            "title": "SOUL PS (12/2013 - 06/2016) B2-13",
+            "modelName": "SOUL PS",
+            "years": [
+                2013,
+                2014,
+                2015,
+                2016
+            ],
+            "yearFrom": "2013",
+            "yearTo": "2016",
+            "showInConnect": true
+        },
+        {
+            "id": "B2-16",
+            "title": "SOUL PS (08/2016 - 11/2018) B2-16",
+            "modelName": "SOUL PS",
+            "years": [
+                2016,
+                2017,
+                2018,
+                2019
+            ],
+            "yearFrom": "2017",
+            "yearTo": "2019",
+            "showInConnect": true
+        },
+        {
+            "id": "FX-B",
+            "title": "SPECTRA (02/2001 - 12/2003) FX-B",
+            "modelName": "SPECTRA",
+            "years": [
+                2001,
+                2002,
+                2003
+            ],
+            "yearFrom": "2002",
+            "yearTo": "2003",
+            "showInConnect": true
+        },
+        {
+            "id": "FM",
+            "title": "SPORTAGE AL (11/1998 - 05/2003) FM",
+            "modelName": "SPORTAGE AL",
+            "years": [
+                1998,
+                1999,
+                2000,
+                2001,
+                2002,
+                2003
+            ],
+            "yearFrom": "2000",
+            "yearTo": "2003",
+            "showInConnect": true
+        },
+        {
+            "id": "FQ",
+            "title": "SPORTAGE KM (04/2004 - 12/2006) FQ",
+            "modelName": "SPORTAGE KM",
+            "years": [
+                2004,
+                2005,
+                2006,
+                2007,
+                2008,
+                2009,
+                2010
+            ],
+            "yearFrom": "2004",
+            "yearTo": "2010",
+            "showInConnect": true
+        },
+        {
+            "id": "FQ-04",
+            "title": "SPORTAGE KM (09/2006 - 02/2010) FQ-04",
+            "modelName": "SPORTAGE KM",
+            "years": [
+                2006,
+                2007,
+                2008,
+                2009,
+                2010
+            ],
+            "yearFrom": "2007",
+            "yearTo": "2010",
+            "showInConnect": true
+        },
+        {
+            "id": "GY-22",
+            "title": "SPORTAGE NQ5 (09/2021 - ) GY-22",
+            "modelName": "SPORTAGE NQ5",
+            "years": [
+                2021,
+                2022,
+                2023,
+                2024
+            ],
+            "yearFrom": "2022",
+            "yearTo": "2024",
+            "showInConnect": true
+        },
+        {
+            "id": "D9-16",
+            "title": "SPORTAGE QL (11/2015 - 05/2018) D9-16",
+            "modelName": "SPORTAGE QL",
+            "years": [
+                2015,
+                2016,
+                2017,
+                2018
+            ],
+            "yearFrom": "2016",
+            "yearTo": "2018",
+            "showInConnect": true
+        },
+        {
+            "id": "D9-19",
+            "title": "SPORTAGE QL (04/2018 - 09/2021) D9-19",
+            "modelName": "SPORTAGE QL",
+            "years": [
+                2018,
+                2019,
+                2020,
+                2021
+            ],
+            "yearFrom": "2019",
+            "yearTo": "2021",
+            "showInConnect": true
+        },
+        {
+            "id": "SL-10",
+            "title": "SPORTAGE SL (05/2010 - 10/2013) SL-10",
+            "modelName": "SPORTAGE SL",
+            "years": [
+                2010,
+                2011,
+                2012,
+                2013
+            ],
+            "yearFrom": "2010",
+            "yearTo": "2013",
+            "showInConnect": true
+        },
+        {
+            "id": "SLZ-10",
+            "title": "SPORTAGE SLE (04/2013 - 01/2014) SLZ-10",
+            "modelName": "SPORTAGE SLE",
+            "years": [
+                2013
+            ],
+            "yearFrom": "2013",
+            "yearTo": "2013",
+            "showInConnect": true
+        },
+        {
+            "id": "SLZ-14",
+            "title": "SPORTAGE SLE (01/2014 - 10/2015) SLZ-14",
+            "modelName": "SPORTAGE SLE",
+            "years": [
+                2014,
+                2015
+            ],
+            "yearFrom": "2014",
+            "yearTo": "2015",
+            "showInConnect": true
+        },
+        {
+            "id": "J5-17",
+            "title": "STINGER CK (06/2017 - 09/2020) J5-17",
+            "modelName": "STINGER CK",
+            "years": [
+                2017,
+                2018,
+                2019,
+                2020
+            ],
+            "yearFrom": "2018",
+            "yearTo": "2020",
+            "showInConnect": true
+        },
+        {
+            "id": "J5-20",
+            "title": "STINGER CK (09/2020 - 04/2023) J5-20",
+            "modelName": "STINGER CK",
+            "years": [
+                2020,
+                2021,
+                2022,
+                2023
+            ],
+            "yearFrom": "2021",
+            "yearTo": "2023",
+            "showInConnect": true
+        },
+        {
+            "id": "H8W-20",
+            "title": "STONIC YB (10/2020 - ) H8W-20",
+            "modelName": "STONIC YB",
+            "years": [
+                2020,
+                2021,
+                2022,
+                2023,
+                2024
+            ],
+            "yearFrom": "2021",
+            "yearTo": "2024",
+            "showInConnect": true
+        }
+    ]
+}
