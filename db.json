@@ -15,18 +15,6 @@
             "yearFrom": "2023",
             "yearTo": "2024",
             "showInConnect": true
-        },
-        {
-            "id": "FL",
-            "title": "CARNIVAL GQ (01/2000 - 11/2005) FL",
-            "modelName": "CARNIVAL GQ",
-            "years": [
-                2024,
-                2023
-            ],
-            "yearFrom": "2023",
-            "yearTo": "2024",
-            "showInConnect": true
         }
     ]
 }
