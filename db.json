@@ -1,5 +1,6 @@
 {
-    "years": [
+    "year-model": {
+        "years": [
         2024,
         2023
     ],
@@ -17,4 +18,5 @@
             "showInConnect": true
         }
     ]
+}
 }
